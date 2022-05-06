@@ -4,5 +4,5 @@
 
 <a href="https://codeclimate.com/github/OnishchenkoIvan/frontend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/380ca5e9cd4103bedd6e/maintainability" /></a>
 
-[![Node CI](https://github.com/OnishchenkoIvan/frontend-project-lvl1/workflows/nodeCi/badge.svg)](https://github.com/OnishchenkoIvan/frontend-project-lvl1/actions)
+[![NodeCI](https://github.com/ruslanrust/backend-project-lvl1/workflows/Node CI/badge.svg)](https://github.com/ruslanrust/backend-project-lvl1/actions/workflows/nodeCi.yml)
 
