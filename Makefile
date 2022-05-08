@@ -10,7 +10,7 @@ brain-even:
 publish:
 	npm publish --dry-run 
 	
-test:
+make test:
 	npm test
 
 lint:
