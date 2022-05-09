@@ -5,10 +5,10 @@ import { userName, nameUser } from '../src/cli.js';
 
 userName();
 
-const gameCalc = (youranswer) => {
+const gameCalc = () => {
   console.log('What is the result of the expression?');
   const count = 3;
-  for (let i = 0; i < count; i++) {
+  for (let i = 0; i < count; i += 1) {
     const number = Math.round(Math.random() * 100);
     const numberTwo = Math.round(Math.random() * 10);
     const signs = ['+', '-', '*'];

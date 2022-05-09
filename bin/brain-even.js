@@ -5,10 +5,10 @@ import { userName, nameUser } from '../src/cli.js';
 
 userName();
 
-const gameEvenOdd = (youranswer) => {
+const gameEvenOdd = () => {
   console.log('Answer "yes" if the number is even, otherwise answer "no".');
   const count = 3;
-  for (let i = 0; i < count; i++) {
+  for (let i = 0; i < count; i += 1) {
     const number = Math.round(Math.random() * 100);
     console.log(`Question: ${number}`);
     const answer = readlineSync.question('Your answer: ');
