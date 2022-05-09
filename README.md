@@ -5,8 +5,11 @@
 [![Node CI](https://github.com/OnishchenkoIvan/frontend-project-lvl1/actions/workflows/nodeCi.yml/badge.svg)](https://github.com/OnishchenkoIvan/frontend-project-lvl1/actions/workflows/nodeCi.yml)
 
 Even-game:
-https://asciinema.org/a/5eAscGziGpGacIAHRDqA8kCa1
+[![asciicast](https://asciinema.org/a/5eAscGziGpGacIAHRDqA8kCa1.svg)](https://asciinema.org/a/5eAscGziGpGacIAHRDqA8kCa1)
 
 Calc-game:
-https://asciinema.org/a/2SYQ8j6nDQLy6WsPiyudkTN3g
+[![asciicast](https://asciinema.org/a/2SYQ8j6nDQLy6WsPiyudkTN3g.svg)](https://asciinema.org/a/2SYQ8j6nDQLy6WsPiyudkTN3g)
+
+
+
 
