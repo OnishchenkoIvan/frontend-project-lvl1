@@ -4,3 +4,9 @@
 <a href="https://codeclimate.com/github/OnishchenkoIvan/frontend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/380ca5e9cd4103bedd6e/maintainability" /></a> 
 [![Node CI](https://github.com/OnishchenkoIvan/frontend-project-lvl1/actions/workflows/nodeCi.yml/badge.svg)](https://github.com/OnishchenkoIvan/frontend-project-lvl1/actions/workflows/nodeCi.yml)
 
+Even-game:
+https://asciinema.org/a/5eAscGziGpGacIAHRDqA8kCa1
+
+Calc-game:
+https://asciinema.org/a/2SYQ8j6nDQLy6WsPiyudkTN3g
+
