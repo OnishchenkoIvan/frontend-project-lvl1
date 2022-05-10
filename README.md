@@ -13,6 +13,9 @@ Calc-game:
 Gcd-game:
 [![asciicast](https://asciinema.org/a/RbeSyOXWlKTBciS7nV5Fww0lC.svg)](https://asciinema.org/a/RbeSyOXWlKTBciS7nV5Fww0lC)
 
+Progression-game:
+[![asciicast](https://asciinema.org/a/7LYwclj1e4EQCM5SDrx1xdfDn.svg)](https://asciinema.org/a/7LYwclj1e4EQCM5SDrx1xdfDn)
+
 
 
 
