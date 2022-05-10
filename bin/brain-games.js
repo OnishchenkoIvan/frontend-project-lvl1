@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-import { userName } from '../src/cli.js';
+import gamesLogic from '../src/index.js';
 
-userName();
+gamesLogic();
