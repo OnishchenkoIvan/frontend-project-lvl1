@@ -10,6 +10,9 @@ Even-game:
 Calc-game:
 [![asciicast](https://asciinema.org/a/2SYQ8j6nDQLy6WsPiyudkTN3g.svg)](https://asciinema.org/a/2SYQ8j6nDQLy6WsPiyudkTN3g)
 
+Gcd-game:
+[![asciicast](https://asciinema.org/a/RbeSyOXWlKTBciS7nV5Fww0lC.svg)](https://asciinema.org/a/RbeSyOXWlKTBciS7nV5Fww0lC)
+
 
 
 
