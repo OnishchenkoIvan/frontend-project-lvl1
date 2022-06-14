@@ -21,9 +21,9 @@ brain-prime:
 	
 publish:
 	npm publish --dry-run 
-	
-make test:
-	npm test
 
 lint:
 	npx eslint
+	
+make test:
+	npm test
